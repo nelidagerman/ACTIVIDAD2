@@ -1,0 +1,9 @@
+{{#restaurantes}}
+<div class="resultItem">
+	<p class="id">{{id}}</p>
+	<h3 class="nombre">{{nombre}}</h3>
+	<h3 class="direccion">{{direccion}}</h3>
+	<h3 class="telefono">{{telefono}}</h3>
+	
+</div>
+{{/restaurantes}}
